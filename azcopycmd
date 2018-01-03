@@ -9,3 +9,4 @@ wget -O azcopy.tar.gz https://aka.ms/downloadazcopyprlinux
 tar -xf azcopy.tar.gz
 sudo ./install.sh
 azcopy
+rm -rf /tmp/azcopy
